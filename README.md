@@ -1,6 +1,6 @@
 # Benchmarking Maintainability Metrics and Machine Learning Predictions Against Human Assessments 2024
 
-This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "Ghost Echoes Revealed: Benchmarking Maintainability Metrics and Machine Learning Predictions Against Human Assessments" submitted to the industry track of the [40th International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/home/TechDebt-2024), Flagstaff, AZ, USA, Oct 6-11, 2024.
+This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "Ghost Echoes Revealed: Benchmarking Maintainability Metrics and Machine Learning Predictions Against Human Assessments" submitted to the industry track of the [40th International Conference on Software Maintenance and Evolution (ICSME)](https://conf.researchr.org/home/icsme-2024), Flagstaff, AZ, USA, Oct 6-11, 2024.
 
 ## Authors
 
