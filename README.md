@@ -22,6 +22,6 @@ As generative AI is expected to increase global code volumes, the importance of 
   - Microsoft Maintainability index provided by [MetricsTree](https://plugins.jetbrains.com/plugin/13959-metricstree)
 
 ## References
-- Schnappinger *et al.*, [A Software Maintainability Dataset](https://figshare.com/articles/dataset/_/12801215/0), 10.6084/m9.figshare.12801215, 2020.
+- Schnappinger *et al.*, [A Software Maintainability Dataset](https://figshare.com/articles/dataset/A_Software_Maintainability_Dataset/12801215), 10.6084/m9.figshare.12801215, 2020.
 - Schnappinger *et al.*, Defining a Software Maintainability Dataset: Collecting, Aggregating and Analysing Expert Evaluations of Software Maintainability, in *Proc. of the 36th International Conference on Software Maintenance and Evolution*, pp. 278–289, 2020.
 - S. Bertrand *et al.*, Replication and Extension of Schnappinger’s Study on Human-level Ordinal Maintainability Prediction Based on Static Code Metrics, in *Proc. of the 27th International Conference on Evaluation and Assessment in Software Engineering*, pp. 241–246, 2023.
